@@ -1,1 +1,38 @@
+*,
+*:befoer,
+*:after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
 
+.wrapper {}
+
+.wrapper .header {}
+
+.wrapper .header .container {}
+
+.wrapper .header__body {}
+
+.wrapper .header__logo {}
+
+.wrapper .header__burger {}
+
+.wrapper .header__burger span {}
+
+.wrapper .header__menu {}
+
+.wrapper .header__list {}
+
+.wrapper li {}
+
+.wrapper .header__link {}
+
+.wrapper .content {}
+
+.wrapper .content .container {}
+
+.wrapper .content__text {}
+
+.footer {}
